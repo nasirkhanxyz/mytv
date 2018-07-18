@@ -1,0 +1,1052 @@
+#EXTM3U
+
+
+http://87.116.151.5:8080/live/encoded/stream/87.ts
+#EXTINF:-1,ArenaSport4 
+http://87.116.151.5:8080/live/encoded/stream/86.ts
+#EXTINF:-1,ArenaSport3 
+http://87.116.151.5:8080/live/encoded/stream/85.ts
+#EXTINF:-1,ArenaSport2 
+http://87.116.151.5:8080/live/encoded/stream/84.ts
+#EXTINF:-1,ArenaSport1 
+http://87.116.151.5:8080/live/encoded/stream/83.ts
+#EXTINF:-1,SportKlub 3 
+http://87.116.151.5:8080/live/encoded/stream/81.ts
+#EXTINF:-1,SportKlub 2
+http://87.116.151.5:8080/live/encoded/stream/80.ts
+#EXTINF:-1,SportKlub 1 
+http://87.116.151.5:8080/live/encoded/stream/79.ts
+#EXTINF:-1,Eurosport2 
+http://87.116.151.5:8080/live/encoded/stream/104.ts
+#EXTINF:-1,Eurosport 
+http://87.116.151.5:8080/live/encoded/stream/103.ts
+#EXTINF:-1,SportKlub 6 
+http://87.116.151.5:8080/live/encoded/stream/102.ts
+#EXTINF:-1,SportKlub 5 
+http://87.116.151.5:8080/live/encoded/stream/101.ts
+#EXTINF:-1,SportKlub 4 
+http://87.116.151.5:8080/live/encoded/stream/100.ts
+
+#EXTINF:-1,BEIN SPORTS MAX 1 FULL HD
+http://213.74.115.220:8000/live/salim/salim/1.ts
+#EXTINF:-1,BEIN SPORTS MAX 2 FULL HD
+http://213.74.115.220:8000/live/salim/salim/117.ts
+#EXTINF:-1,BEIN SPORTS MAX 3 FULL HD
+http://213.74.115.220:8000/live/salim/salim/3.ts
+#EXTINF:-1,BEIN SPORTS MAX 4 FULL HD
+http://213.74.115.220:8000/live/salim/salim/34.ts
+
+#EXTINF:-1,S $ BeIN_SPORTS_1 FR SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10585.ts
+#EXTINF:-1,S $ BeIN_SPORTS_2 FR SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10584.ts
+#EXTINF:-1,S $ BeIN_SPORTS_3 FR SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10583.ts
+#EXTINF:-1,S $ BeINSPORT_MAX4
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10582.ts
+#EXTINF:-1,S $ BeINSPORT_MAX6
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10580.ts
+#EXTINF:-1,S $ BeINSPORT_MAX7
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10579.ts
+#EXTINF:-1,S $ BFM_SPORT
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10592.ts
+#EXTINF:-1,S $ SFR_SPORT_1 SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10589.ts
+#EXTINF:-1,S $ SFR_SPORT_2 SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10588.ts
+#EXTINF:-1,S $ SFR_SPORT_3 SD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10587.ts
+#EXTINF:-1,H $ beIN_SPORTS_1 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10512.ts
+#EXTINF:-1,H $ beIN_SPORTS_2 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10511.ts
+#EXTINF:-1,H $ beIN_SPORTS_3 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10510.ts
+#EXTINF:-1,H $ EUROSPORT_1 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10508.ts
+#EXTINF:-1,H $ EUROSPORT_2 FR
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10507.ts
+#EXTINF:-1,H $ EXTREME_SPORTS
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10506.ts
+#EXTINF:-1,H $ INFOSPORT
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10502.ts
+#EXTINF:-1,H $ L'EQUIPE_21
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10500.ts
+#EXTINF:-1,H $ SFR_SPORT_1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10499.ts
+#EXTINF:-1,H $ SFR_SPORT_2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10498.ts
+#EXTINF:-1,H $ SFR_SPORT_3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10497.ts
+#EXTINF:-1,H $ SFR_SPORT_5
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10496.ts
+#EXTINF:-1,NL_Eurosport 2 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10378.ts
+#EXTINF:-1,NL_Film1 Spotlight
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10373.ts
+#EXTINF:-1,NL_Fox Sport 1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10369.ts
+#EXTINF:-1,NL_Fox Sport 3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10367.ts
+#EXTINF:-1,NL_Fox Sport 4
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10366.ts
+#EXTINF:-1,NL_Fox Sport 6
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10364.ts
+#EXTINF:-1,NL_Ziggo Sport
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10341.ts
+#EXTINF:-1,NL_Ziggo Sport Extra 1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10340.ts
+#EXTINF:-1,NL_Ziggo Sport1 Golf
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10337.ts
+#EXTINF:-1,NL_Ziggo Sport1 Voetbal
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10335.ts
+#EXTINF:-1,RO_Digi-Sport1
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10415.ts
+#EXTINF:-1,RO_Digi-Sport2
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10414.ts
+#EXTINF:-1,RO_Digi-Sport3
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10413.ts
+#EXTINF:-1,RO_Digi-Sport4
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10412.ts
+#EXTINF:-1,TR_beINSPORTS-1 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10206.ts
+#EXTINF:-1,TR_beINSPORTS-2 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10205.ts
+#EXTINF:-1,TR_beINSPORTS-3 HD
+http://url550.com:8000/live/1234AA**@@Uz!!/bassamroundok/10204.ts
+
+#EXTINF:-1,SR_SUPER-SPORT_Kossova_2-HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3118.ts
+#EXTINF:-1,SR_SUPER-SPORT_Kossova_1-HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3117.ts
+#EXTINF:-1,SR_SUPER-SPORT_4_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3116.ts
+#EXTINF:-1,SR_SUPER-SPORT_3_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3115.ts
+#EXTINF:-1,SPORT_KLUB_5
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3123.ts
+#EXTINF:-1,SPORT_KLUB_4
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3122.ts
+#EXTINF:-1,SPORT_KLUB_3
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3121.ts
+#EXTINF:-1,SPORT_KLUB_2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3120.ts
+#EXTINF:-1,SPORT_KLUB_1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3119.ts
+#EXTINF:-1,PT: SPORT TV-5HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3114.ts
+#EXTINF:-1,AR: beIN Sports1 HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/4.ts
+#EXTINF:-1,AR_beIN_Sports4_HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/8.ts
+#EXTINF:-1,AR_beIN_Sports5_HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/9.ts
+#EXTINF:-1,AR_beIN_Sports6_HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/10.ts
+#EXTINF:-1,AR_beIN_Sports7_HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/11.ts
+#EXTINF:-1,AR: beIN Sports8 HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/12.ts
+#EXTINF:-1,AR_beIN_Sports9_HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/13.ts
+#EXTINF:-1,AR: beIN Sports10 HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/14.ts
+#EXTINF:-1,beINt11HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1272.ts
+#EXTINF:-1,beIN12HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1273.ts
+#EXTINF:-1,TR_Tivibu_Spor_ 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2466.ts
+#EXTINF:-1,TR_Tivibu_Spor
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2465.ts
+#EXTINF:-1,TR_Star_TV
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2440.ts
+#EXTINF:-1,TR_Sports_TV
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2469.ts
+#EXTINF:-1,TR: Smart  Spor HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2470.ts
+#EXTINF:-1,TR: Smart  Spor 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2471.ts
+#EXTINF:-1,TR_BEIN_SPORTS_1_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2462.ts
+#EXTINF:-1,TR_BEIN_SPORTS_2_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2463.ts
+#EXTINF:-1,TR:beIN SPORTS 3
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2464.ts
+#EXTINF:-1,TR_BEIN_sports_4_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3556.ts
+#EXTINF:-1,TR: beIN MAX 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3557.ts
+#EXTINF:-1,UK_EUROSPORT_2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2516.ts
+#EXTINF:-1,UK_BT_Sport_3_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2520.ts
+#EXTINF:-1,UK: BT Sport 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2519.ts
+#EXTINF:-1,UK_BT_Sport_1_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2518.ts
+#EXTINF:-1,UK: Boxnation
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2517.ts
+#EXTINF:-1,UK: Sky Sports Golf
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1613.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1612.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1611.ts
+#EXTINF:-1,UK: Sky Sports Action
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1610.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1587.ts
+#EXTINF:-1,Arena_Sport_5HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1578.ts
+#EXTINF:-1,Arena_Sport_4_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1580.ts
+#EXTINF:-1,Arena Sport 3
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1577.ts
+#EXTINF:-1,Arena Sport2 HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1576.ts
+#EXTINF:-1,Arena Sport 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1575.ts
+#EXTINF:-1,SR: Super Sport 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/143.ts
+#EXTINF:-1,SR: Super Sport 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/142.ts
+#EXTINF:-1,Digi Sport 4HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2032.ts
+#EXTINF:-1,Digi-Sport_3_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2031.ts
+#EXTINF:-1,Digi-Sport_2_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2030.ts
+#EXTINF:-1,Digi-Sport_1_HD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2029.ts
+#EXTINF:-1,PT: SPORT TV4 SD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2034.ts
+#EXTINF:-1,SPORT-TV1_FHD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2033.ts
+#EXTINF:-1,PT: SPORT-TV 3 FHD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2036.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/2035.ts
+#EXTINF:-1,NL: Fox Sports 5
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/615.ts
+#EXTINF:-1,NL: Fox Sports 3
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/613.ts
+#EXTINF:-1,NL: Fox Sports2 HD+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1636.ts
+#EXTINF:-1,IT: SKY Sport Moto GP
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1974.ts
+#EXTINF:-1,IT: Sky Sport 24
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1964.ts
+#EXTINF:-1,IT: Sky SportF1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1533.ts
+#EXTINF:-1,IT: Sky Sport 3
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1534.ts
+#EXTINF:-1,IT: Sky Sport 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1535.ts
+#EXTINF:-1,IT: Sky Sport 1
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1536.ts
+#EXTINF:-1,IT: Premium Sport 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1526.ts
+#EXTINF:-1,IT: Premium.Calcio 2
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1531.ts
+#EXTINF:-1,IT: Premium Sport
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/1625.ts
+#EXTINF:-1,FR: XTREME SPORT
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/3294.ts
+#EXTINF:-1,FR: InFoSport+
+http://iptv2017.ddns.net:8100/live/IPtvFull/yx77yonb/559.ts
+
+#EXTINF:-1,beINSPORTS_News_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1327.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5209.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3879.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.1.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3880.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3881.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.2.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3882.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3883.ts
+#EXTINF:-1,|AR|BEIN-SPORTS.3.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3884.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_4HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3885.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.4.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3886.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_5HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3887.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.5.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3888.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_6HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3889.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.6.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3890.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_7HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3891.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.7.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3892.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_8HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3893.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.8.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3894.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_9HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3895.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.9.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3896.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_10HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3897.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-.10.sd
+http://world-ipsat.com:1155/live/sultan/sultan2018/3898.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_11HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3899.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_12HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3900.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_13HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4675.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_14HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4665.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_15HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4664.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_16HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4663.ts
+#EXTINF:-1,|AR|BEIN_SPORTS-_17HD ES
+http://world-ipsat.com:1155/live/sultan/sultan2018/4662.ts
+#EXTINF:-1,BEINSPORTS.NBA.HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3868.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3901.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.1HD.BACKUP
+http://world-ipsat.com:1155/live/sultan/sultan2018/3902.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3903.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.2HD.BACKUP
+http://world-ipsat.com:1155/live/sultan/sultan2018/3904.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4661.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.3HD.BACKUP
+http://world-ipsat.com:1155/live/sultan/sultan2018/4660.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.4HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4659.ts
+#EXTINF:-1,|Cup|BEIN-SPORTS-MAX.4HD.BACKUP
+http://world-ipsat.com:1155/live/sultan/sultan2018/4658.ts
+#EXTINF:-1,|AR| AD SPORT 1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1724.ts
+#EXTINF:-1,|AR| AD SPORT 2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1725.ts
+#EXTINF:-1,|AR| AD SPORT 3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1726.ts
+#EXTINF:-1,|AR| AD SPORT 4HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/37.ts
+#EXTINF:-1,|AR| AD SPORT 5HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1727.ts
+#EXTINF:-1,|AR| ON Sport
+http://world-ipsat.com:1155/live/sultan/sultan2018/2556.ts
+#EXTINF:-1,|FR| SFR SPORTS.1 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/771.ts
+#EXTINF:-1,|FR| SFR SPORTS.2 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/486.ts
+#EXTINF:-1,|FR| SFR SPORTS.3 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/487.ts
+#EXTINF:-1,|FR| SFR.SPORT.1-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3776.ts
+#EXTINF:-1,|FR| SFR.SPORT.1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1448.ts
+#EXTINF:-1,|FR| SFR.SPORT.2-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3782.ts
+#EXTINF:-1,|FR|SFR.SPORT.2.HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1451.ts
+#EXTINF:-1,|FR| SFR.SPORT.3 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2566.ts
+#EXTINF:-1,|FR| SFR.SPORT.5 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2563.ts
+#EXTINF:-1,|FR| beIN SPORTS 1 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/482.ts
+#EXTINF:-1,|FR| beIN SPORTS 2 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/483.ts
+#EXTINF:-1,|FR| beIN SPORTS 3 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/484.ts
+#EXTINF:-1,|FR| beINSPORT 1 SD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2430.ts
+#EXTINF:-1,[FR]beINSPORT2.HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/60.ts
+#EXTINF:-1,|FR|beINSPORT2-SD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1286.ts
+#EXTINF:-1,|FR| beINSPORT 3 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/151.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 4 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1739.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 5 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1740.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 6 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1741.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 7 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1742.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 8 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1627.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 9 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1628.ts
+#EXTINF:-1,|FR| BEIN SPORT MAX 10 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1756.ts
+#EXTINF:-1,|FR| CANAL+ SPORT FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1450.ts
+#EXTINF:-1,|FR| CANAL+ SPORT SD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3781.ts
+#EXTINF:-1,|FR| CANAL+ SPORT HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/761.ts
+#EXTINF:-1,|FR| EUROSPORT1 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/554.ts
+#EXTINF:-1,|FR| EUROSPORT 2 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/553.ts
+#EXTINF:-1,|FR| EUROSPORT1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/3869.ts
+#EXTINF:-1,|FR|EUROSPORT2-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/17.ts
+#EXTINF:-1,|FR| KOMBA SPORT HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/99.ts
+#EXTINF:-1,|FR| EQUIDIA LIVE HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/490.ts
+#EXTINF:-1,|FR| EQUIDIA LIFE HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1775.ts
+#EXTINF:-1,|FR| INFOSPORT  HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/485.ts
+#EXTINF:-1,|FR| EQUIPE.21 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5496.ts
+#EXTINF:-1,|FR| LEQUIPE21 FHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/489.ts
+#EXTINF:-1,|FR| FOOT+ HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/488.ts
+#EXTINF:-1,|FR| GOLF+ HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2281.ts
+#EXTINF:-1,|FR| AB MOTEUR SD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1623.ts
+#EXTINF:-1,|FR| LA CHAINE NORMADIE
+http://world-ipsat.com:1155/live/sultan/sultan2018/1626.ts
+#EXTINF:-1,OSN| Sports_1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2028.ts
+#EXTINF:-1,OSN| Sports_2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2027.ts
+#EXTINF:-1,OSN| Sports_3
+http://world-ipsat.com:1155/live/sultan/sultan2018/2026.ts
+#EXTINF:-1,OSN| Sports_4
+http://world-ipsat.com:1155/live/sultan/sultan2018/2025.ts
+#EXTINF:-1,|ES| TOROS HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4982.ts
+#EXTINF:-1,|ES| M DEPORTES 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4992.ts
+#EXTINF:-1,|ES| M DEPORTES 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4991.ts
+#EXTINF:-1,|ES| M FUTBOL HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4990.ts
+#EXTINF:-1,|ES| M FUTBOL
+http://world-ipsat.com:1155/live/sultan/sultan2018/4989.ts
+#EXTINF:-1,|ES| GOL TV HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4981.ts
+#EXTINF:-1,|ES| TELEDEPORTE HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4980.ts
+#EXTINF:-1,|ES| M beINSPORTS HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4993.ts
+#EXTINF:-1,|ES| M beINSPORTS
+http://world-ipsat.com:1155/live/sultan/sultan2018/4994.ts
+#EXTINF:-1,|ES| M BEINLALIGA HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4995.ts
+#EXTINF:-1,|ES| LALIGA 123 TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/4985.ts
+#EXTINF:-1,|ES| LALIGA TV HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4984.ts
+#EXTINF:-1,|ES| BARCA TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/4988.ts
+#EXTINF:-1,|ES| REAL MADRID TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/4983.ts
+#EXTINF:-1,|ES| EUROSPORT 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4987.ts
+#EXTINF:-1,|ES| EUROSPORTS 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4986.ts
+#EXTINF:-1,|ES| M PARTIDAZO HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/4979.ts
+#EXTINF:-1,|ES|CANAL_LIGA.H265
+http://world-ipsat.com:1155/live/sultan/sultan2018/1421.ts
+#EXTINF:-1,ES:TeleticinoHD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1411.ts
+#EXTINF:-1,(ES)_M_Deportes_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2010.ts
+#EXTINF:-1,(ES)_M_deportes_2_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2011.ts
+#EXTINF:-1,(ES)_EUROSPORT_1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2013.ts
+#EXTINF:-1,(ES)_Eurosport_2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2012.ts
+#EXTINF:-1,(ES)_GOLF_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2016.ts
+#EXTINF:-1,(ES)_Bar_la_liga_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2017.ts
+#EXTINF:-1,[ES]_M_Futbol_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2018.ts
+#EXTINF:-1,Canal_FutBol HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1406.ts
+#EXTINF:-1,(ES)_Barca_TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/2015.ts
+#EXTINF:-1,ES: Barca TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/1415.ts
+#EXTINF:-1,ES: Real Madrid
+http://world-ipsat.com:1155/live/sultan/sultan2018/1416.ts
+#EXTINF:-1,(ES)_Real_Madrid_TV_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2014.ts
+#EXTINF:-1,(ES)_M_Toros_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2005.ts
+#EXTINF:-1,(ES)_M_Golf_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2009.ts
+#EXTINF:-1,(ES)_MotoGP_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2008.ts
+#EXTINF:-1,(ES)_Movistar_F1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2007.ts
+#EXTINF:-1,(ES)_Telecinco_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1986.ts
+#EXTINF:-1,(ES)_Teledeporte
+http://world-ipsat.com:1155/live/sultan/sultan2018/2006.ts
+#EXTINF:-1,|ES|Bein_Sport _ES.H265
+http://world-ipsat.com:1155/live/sultan/sultan2018/1414.ts
+#EXTINF:-1,BEIN_LIGA_HD_ES
+http://world-ipsat.com:1155/live/sultan/sultan2018/2003.ts
+#EXTINF:-1,|DE|SKY SPORT 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5643.ts
+#EXTINF:-1,|DE| SKY SPORT 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5642.ts
+#EXTINF:-1,|NL| Fox Sports HD 1*LOCAL*
+http://world-ipsat.com:1155/live/sultan/sultan2018/5610.ts
+#EXTINF:-1,|NL| Fox Sports HD 2*LOCAL*
+http://world-ipsat.com:1155/live/sultan/sultan2018/5609.ts
+#EXTINF:-1,|NL| Fox Sports HD 3*LOCAL*
+http://world-ipsat.com:1155/live/sultan/sultan2018/5608.ts
+#EXTINF:-1,|NL| Fox Sports HD 4*LOCAL*
+http://world-ipsat.com:1155/live/sultan/sultan2018/5607.ts
+#EXTINF:-1,|NL| Fox Sports HD 5*LOCAL*
+http://world-ipsat.com:1155/live/sultan/sultan2018/5606.ts
+#EXTINF:-1,|NL| Fox Sports HD 6*LOCAL*
+http://world-ipsat.com:1155/live/sultan/sultan2018/5605.ts
+#EXTINF:-1,|NL| |NL| Extreme Sports *LOCAL*
+http://world-ipsat.com:1155/live/sultan/sultan2018/5604.ts
+#EXTINF:-1,NL:Fox_Sport _1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/995.ts
+#EXTINF:-1,NL:Fox_Sport _2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/996.ts
+#EXTINF:-1,NL:Fox_Sport_3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/997.ts
+#EXTINF:-1,NL:Fox_Sport_4HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/998.ts
+#EXTINF:-1,NL:Fox_Sport _5HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/999.ts
+#EXTINF:-1,NL:Fox_Sport _6HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1000.ts
+#EXTINF:-1,NL:Ziggo-Sport-Extra1
+http://world-ipsat.com:1155/live/sultan/sultan2018/1492.ts
+#EXTINF:-1,NL:Ziggo-Sport-Extra2
+http://world-ipsat.com:1155/live/sultan/sultan2018/1491.ts
+#EXTINF:-1,NL:Ziggo-Sport-Golf
+http://world-ipsat.com:1155/live/sultan/sultan2018/1490.ts
+#EXTINF:-1,NL:Ziggo-Sport-Racing
+http://world-ipsat.com:1155/live/sultan/sultan2018/1489.ts
+#EXTINF:-1,NL:Ziggo-Sport-Select-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1488.ts
+#EXTINF:-1,(Holland) Sport EXTRA 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1001.ts
+#EXTINF:-1,(Holland) Sport EXTRA 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1002.ts
+#EXTINF:-1,UK:Sky-Sports-1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1016.ts
+#EXTINF:-1,UK-SKY SPORT-2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1017.ts
+#EXTINF:-1,UK-SKY SPORT-3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1018.ts
+#EXTINF:-1,UK:Sky-Sports-4HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1019.ts
+#EXTINF:-1,UK:Sky_Sports_5HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/56.ts
+#EXTINF:-1,UK:-BT-Sport1
+http://world-ipsat.com:1155/live/sultan/sultan2018/1011.ts
+#EXTINF:-1,UK:BT-Sport-2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1020.ts
+#EXTINF:-1,UK:BT_Sport_2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2948.ts
+#EXTINF:-1,UK.BT_Sports_2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2947.ts
+#EXTINF:-1,BT_Sport_ESPN
+http://world-ipsat.com:1155/live/sultan/sultan2018/2946.ts
+#EXTINF:-1,UK:City
+http://world-ipsat.com:1155/live/sultan/sultan2018/83.ts
+#EXTINF:-1,UK:Sports-Night
+http://world-ipsat.com:1155/live/sultan/sultan2018/159.ts
+#EXTINF:-1,UK: Comedy Central
+http://world-ipsat.com:1155/live/sultan/sultan2018/158.ts
+#EXTINF:-1,IT:Sky_Sport24
+http://world-ipsat.com:1155/live/sultan/sultan2018/153.ts
+#EXTINF:-1,Premium Calcio_1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/753.ts
+#EXTINF:-1,Premium-Sport-2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1400.ts
+#EXTINF:-1,IT:SKYSport1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1350.ts
+#EXTINF:-1,IT:SKY-Sport-2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1351.ts
+#EXTINF:-1,IT:SKYSport3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1352.ts
+#EXTINF:-1,IT:-Sky-Calcio1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1353.ts
+#EXTINF:-1,IT: Sky Calcio 1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2687.ts
+#EXTINF:-1,Sky.Calcio.2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1354.ts
+#EXTINF:-1,IT: Sky Calcio 2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2688.ts
+#EXTINF:-1,IT: Sky Calcio 4
+http://world-ipsat.com:1155/live/sultan/sultan2018/2681.ts
+#EXTINF:-1,IT: Sky Calcio 3
+http://world-ipsat.com:1155/live/sultan/sultan2018/2083.ts
+#EXTINF:-1,IT:Sky-Sport-MotoGP-HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1348.ts
+#EXTINF:-1,IT:Sport F1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1349.ts
+#EXTINF:-1,IT: JUVENTUS CHANNEL
+http://world-ipsat.com:1155/live/sultan/sultan2018/2689.ts
+#EXTINF:-1,IT:Rai_Sport1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2674.ts
+#EXTINF:-1,IT:Rai_Sport2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2678.ts
+#EXTINF:-1,IT:Premium_Calcio_1
+http://world-ipsat.com:1155/live/sultan/sultan2018/2676.ts
+#EXTINF:-1,IT:Premium_Calcio_2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2675.ts
+#EXTINF:-1,IT:Premium_Calcio
+http://world-ipsat.com:1155/live/sultan/sultan2018/2684.ts
+#EXTINF:-1,IT:Premium_Sport
+http://world-ipsat.com:1155/live/sultan/sultan2018/2682.ts
+#EXTINF:-1,IT:Premium_Sport2
+http://world-ipsat.com:1155/live/sultan/sultan2018/2683.ts
+#EXTINF:-1,TR: BeIN Sports 1 HD.H265
+http://world-ipsat.com:1155/live/sultan/sultan2018/5256.ts
+#EXTINF:-1,TR:bein-liga-1hd
+http://world-ipsat.com:1155/live/sultan/sultan2018/533.ts
+#EXTINF:-1,TR: Bein Sport 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5266.ts
+#EXTINF:-1,TR: BeIN Sports 2 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/534.ts
+#EXTINF:-1,TR: Bein Sport 3 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5265.ts
+#EXTINF:-1,TR BeIN Sports 3 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/535.ts
+#EXTINF:-1,|TR| TIVIBU_SPOR_1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5229.ts
+#EXTINF:-1,|TR| TIVIBU_SPOR_2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5228.ts
+#EXTINF:-1,|TR|TIVIBU_SPOR_3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/5227.ts
+#EXTINF:-1,|TR| SMART SPORT 1 HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2368.ts
+#EXTINF:-1,[TR] BURSA SPOR
+http://world-ipsat.com:1155/live/sultan/sultan2018/2151.ts
+#EXTINF:-1,TR NTV SPORT
+http://world-ipsat.com:1155/live/sultan/sultan2018/536.ts
+#EXTINF:-1,TR TRT SPORT HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/537.ts
+#EXTINF:-1,TR:TURK-BURSASPORT
+http://world-ipsat.com:1155/live/sultan/sultan2018/161.ts
+#EXTINF:-1,TR:TURK-SPORTS
+http://world-ipsat.com:1155/live/sultan/sultan2018/163.ts
+#EXTINF:-1,TR:TURK-SPORTSTV
+http://world-ipsat.com:1155/live/sultan/sultan2018/162.ts
+#EXTINF:-1,PT:SPORT_TV_HD1
+http://world-ipsat.com:1155/live/sultan/sultan2018/1531.ts
+#EXTINF:-1,PT:SPORT_TV_2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1532.ts
+#EXTINF:-1,PT:SPORT_TV_3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1533.ts
+#EXTINF:-1,PT:SPORT_TV_4HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1534.ts
+#EXTINF:-1,PT:SPORT_TV_5HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1535.ts
+#EXTINF:-1,PT:Porto_Canal
+http://world-ipsat.com:1155/live/sultan/sultan2018/2482.ts
+#EXTINF:-1,PT: Benfica TV 1
+http://world-ipsat.com:1155/live/sultan/sultan2018/1536.ts
+#EXTINF:-1,PT:MOTORS_TV
+http://world-ipsat.com:1155/live/sultan/sultan2018/2476.ts
+#EXTINF:-1,PT:MOTORVISION
+http://world-ipsat.com:1155/live/sultan/sultan2018/2475.ts
+#EXTINF:-1,|USA| TSN 1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1460.ts
+#EXTINF:-1,|USA| TSN 2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1459.ts
+#EXTINF:-1,|USA| TSN 3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1456.ts
+#EXTINF:-1,|USA| TSN 4HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1455.ts
+#EXTINF:-1,|USA| TSN 5HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/1454.ts
+#EXTINF:-1,|USA| Astro_Supersport 1HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/49.ts
+#EXTINF:-1,|USA| Astro_Supersport_2HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/53.ts
+#EXTINF:-1,|USA| Astro_Supersport_3HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/149.ts
+#EXTINF:-1,|USA| Bein_Sports_USA_HD
+http://world-ipsat.com:1155/live/sultan/sultan2018/2329.ts
+#EXTINF:-1,RO|DIGI SPORT 1
+http://world-ipsat.com:1155/live/sultan/sultan2018/3132.ts
+#EXTINF:-1,RO|DIGI SPORT 2
+http://world-ipsat.com:1155/live/sultan/sultan2018/3131.ts
+#EXTINF:-1,RO|DIGI SPORT 3
+http://world-ipsat.com:1155/live/sultan/sultan2018/3130.ts
+#EXTINF:-1,RO|DIGI SPORT 4
+http://world-ipsat.com:1155/live/sultan/sultan2018/3129.ts
+
+#EXTINF:-1,FR:BEINSPORT-MAX4
+http://tv2iptv.com:8000/live/mic1/45464uy/5319.ts
+#EXTINF:-1,FR:BEINSPORT-MAX5
+http://tv2iptv.com:8000/live/mic1/45464uy/5320.ts
+#EXTINF:-1,FR:BEINSPORT-MAX6
+http://tv2iptv.com:8000/live/mic1/45464uy/5321.ts
+#EXTINF:-1,FR:BEINSPORT-MAX7
+http://tv2iptv.com:8000/live/mic1/45464uy/5322.ts
+#EXTINF:-1,FR:BEINSPORT-MAX8
+http://tv2iptv.com:8000/live/mic1/45464uy/5323.ts
+#EXTINF:-1,FR:BEINSPORT1
+http://tv2iptv.com:8000/live/mic1/45464uy/5366.ts
+#EXTINF:-1,FR:BEINSPORT2
+http://tv2iptv.com:8000/live/mic1/45464uy/5367.ts
+#EXTINF:-1,FR:BEINSPORT3
+http://tv2iptv.com:8000/live/mic1/45464uy/5368.ts
+#EXTINF:-1,FR:BFM-BUSINESS
+http://tv2iptv.com:8000/live/mic1/45464uy/5358.ts
+#EXTINF:-1,FR:BFM-SPORT
+http://tv2iptv.com:8000/live/mic1/45464uy/5331.ts
+#EXTINF:-1,FR:CANALSPORT
+http://tv2iptv.com:8000/live/mic1/45464uy/5399.ts
+#EXTINF:-1,FR:KOMBAT-SPORT
+http://tv2iptv.com:8000/live/mic1/45464uy/5330.ts
+#EXTINF:-1,FR:L'EQUIPE21
+http://tv2iptv.com:8000/live/mic1/45464uy/5326.ts
+#EXTINF:-1,FR::SFR_SPORT_1HD
+http://tv2iptv.com:8000/live/mic1/45464uy/7400.ts
+#EXTINF:-1,FR::SFR_SPORT_2HD
+http://tv2iptv.com:8000/live/mic1/45464uy/7399.ts
+#EXTINF:-1,FR::SFR_SPORT_3HD
+http://tv2iptv.com:8000/live/mic1/45464uy/7398.ts
+#EXTINF:-1,ES:BEIN-SPORT_SPAIN
+http://tv2iptv.com:8000/live/mic1/45464uy/9622.ts
+#EXTINF:-1,ES:BEINSPORTSD
+http://tv2iptv.com:8000/live/mic1/45464uy/9551.ts
+#EXTINF:-1,ES:BEINSPORT_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/9550.ts
+#EXTINF:-1,ES:BEIN_LALIGA
+http://tv2iptv.com:8000/live/mic1/45464uy/9608.ts
+#EXTINF:-1,ES:BEIN_LA_LIGA
+http://tv2iptv.com:8000/live/mic1/45464uy/9541.ts
+#EXTINF:-1,ES:BEIN_SPORTHDLALIGA
+http://tv2iptv.com:8000/live/mic1/45464uy/9621.ts
+#EXTINF:-1,IT::Premium_Sport_NEWS
+http://tv2iptv.com:8000/live/mic1/45464uy/7235.ts
+#EXTINF:-1,IT::Premium_SPORTS2
+http://tv2iptv.com:8000/live/mic1/45464uy/7234.ts
+#EXTINF:-1,IT::Rai_Sport1
+http://tv2iptv.com:8000/live/mic1/45464uy/7339.ts
+#EXTINF:-1,IT::Rai_Sport2
+http://tv2iptv.com:8000/live/mic1/45464uy/7338.ts
+#EXTINF:-1,IT::Sky_Sport1_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/7361.ts
+#EXTINF:-1,IT::Sky_Sport3_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/7359.ts
+#EXTINF:-1,IT::Sky_Sport_24_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/7358.ts
+#EXTINF:-1,IT::Sky_Supercalcio_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/7355.ts
+#EXTINF:-1,IT_Rai_Sport1
+http://tv2iptv.com:8000/live/mic1/45464uy/5143.ts
+#EXTINF:-1,IT_Rai_Sport2
+http://tv2iptv.com:8000/live/mic1/45464uy/5142.ts
+#EXTINF:-1,IT_Sky_Sport1_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/5153.ts
+#EXTINF:-1,IT_Sky_Sport2_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/5152.ts
+#EXTINF:-1,IT_Sky_Sport3_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/5151.ts
+#EXTINF:-1,IT_Sky_Sport_24_HD
+http://tv2iptv.com:8000/live/mic1/45464uy/5149.ts
+#EXTINF:-1,UK-BT-Sport-1
+http://tv2iptv.com:8000/live/mic1/45464uy/519.ts
+#EXTINF:-1,UK-BT-Sport-2
+http://tv2iptv.com:8000/live/mic1/45464uy/520.ts
+#EXTINF:-1,UK-BT-Sport-Europe
+http://tv2iptv.com:8000/live/mic1/45464uy/1042.ts
+#EXTINF:-1,UK-BT-Sport-Extra-1
+http://tv2iptv.com:8000/live/mic1/45464uy/1043.ts
+#EXTINF:-1,UK-BT-Sport/ESPN
+http://tv2iptv.com:8000/live/mic1/45464uy/1044.ts
+
+#EXTINF:-1,US: TSN SPORT 1
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1,US: TSN SPORT 2
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1,US: TSN SPORT 3
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1,AR: ADSport 1HD  local
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7825.ts
+#EXTINF:-1,AR: ADSport 2HD  local
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7826.ts
+#EXTINF:-1,RU: SETANTA SPORT
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21121.ts
+#EXTINF:-1,RU: SETANTA SPORT +
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21122.ts
+
+#EXTINF:-1,BeIN_Sport_MAX 1_World_Cup(1MB)
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1769.ts
+#EXTINF:-1,BeIN_Sport_MAX 2_World_Cup(1MB)
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1770.ts
+#EXTINF:-1,BeIN_Sport_MAX 1_World_Cup (2M)
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1761.ts
+#EXTINF:-1,BeIN_Sport_MAX 2_World_Cup (2M)
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1762.ts
+#EXTINF:-1,beIN_Max1_512
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/683.ts
+#EXTINF:-1,beIN_Max2_512
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/682.ts
+#EXTINF:-1,Bein1 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1286.ts
+#EXTINF:-1,Bein2 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1285.ts
+#EXTINF:-1,Bein3 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1284.ts
+#EXTINF:-1,Bein4 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1283.ts
+#EXTINF:-1,Bein5 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1282.ts
+#EXTINF:-1,Bein6 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1281.ts
+#EXTINF:-1,Bein7 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1280.ts
+#EXTINF:-1,Bein8 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1279.ts
+#EXTINF:-1,Bein9 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1278.ts
+#EXTINF:-1,Bein10 1M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1277.ts
+#EXTINF:-1,Bein1 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1296.ts
+#EXTINF:-1,Bein2 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1295.ts
+#EXTINF:-1,Bein3 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1294.ts
+#EXTINF:-1,Bein4 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1293.ts
+#EXTINF:-1,Bein5 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1292.ts
+#EXTINF:-1,Bein6 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1291.ts
+#EXTINF:-1,Bein7 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1290.ts
+#EXTINF:-1,Bein8 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1289.ts
+#EXTINF:-1,Bein9 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1288.ts
+#EXTINF:-1,Bein10 2M
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1287.ts
+#EXTINF:-1,BeinSport1 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1336.ts
+#EXTINF:-1,BeinSport2 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1335.ts
+#EXTINF:-1,BeinSport3 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1334.ts
+#EXTINF:-1,BeinSport4 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1333.ts
+#EXTINF:-1,BeinSport5 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1332.ts
+#EXTINF:-1,BeinSport6 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1331.ts
+#EXTINF:-1,BeinSport7 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1330.ts
+#EXTINF:-1,BeinSport8 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1329.ts
+#EXTINF:-1,BeinSport9 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1328.ts
+#EXTINF:-1,BeinSport10 512 KBB
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1327.ts
+#EXTINF:-1,BeinSport1_VERY_LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1356.ts
+#EXTINF:-1,BeinSport 2 VERY LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1355.ts
+#EXTINF:-1,BeinSport 3 VERY LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1354.ts
+#EXTINF:-1,BeinSport 4 VERY LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1353.ts
+#EXTINF:-1,BeinSport 5 VERY LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1352.ts
+#EXTINF:-1,BeinSport 6 VERY LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1351.ts
+#EXTINF:-1,BeinSport_7_VERY_LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1350.ts
+#EXTINF:-1,BeinSport 8 VERY LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1349.ts
+#EXTINF:-1,BeinSport 9 VERY LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1348.ts
+#EXTINF:-1,BeinSport 10 VERY LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1347.ts
+#EXTINF:-1,BeinSport1 512 KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1326.ts
+#EXTINF:-1,BeinSport2 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1325.ts
+#EXTINF:-1,BeinSport3 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1324.ts
+#EXTINF:-1,BeinSport4 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1323.ts
+#EXTINF:-1,BeinSport5 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1322.ts
+#EXTINF:-1,BeinSport6 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1321.ts
+#EXTINF:-1,BeinSport7 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1320.ts
+#EXTINF:-1,BeinSport8 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1319.ts
+#EXTINF:-1,BeinSport9 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1318.ts
+#EXTINF:-1,BeinSport10 512KB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1317.ts
+#EXTINF:-1,BeinSport1 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1346.ts
+#EXTINF:-1,BeinSport 2 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1345.ts
+#EXTINF:-1,BeinSport 3 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1344.ts
+#EXTINF:-1,BeinSport 4 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1343.ts
+#EXTINF:-1,BeinSport5 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1342.ts
+#EXTINF:-1,BeinSport6 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1341.ts
+#EXTINF:-1,BeinSport7_1MB_LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1340.ts
+#EXTINF:-1,BeinSport8 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1339.ts
+#EXTINF:-1,BeinSport9 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1338.ts
+#EXTINF:-1,BeinSport10 1MB LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1337.ts
+#EXTINF:-1,BeinSport1 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1316.ts
+#EXTINF:-1,BeinSport2 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1315.ts
+#EXTINF:-1,BeinSport3 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1314.ts
+#EXTINF:-1,BeinSport4 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1313.ts
+#EXTINF:-1,BeinSport5 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1312.ts
+#EXTINF:-1,BeinSport6 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1311.ts
+#EXTINF:-1,BeinSport7 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1310.ts
+#EXTINF:-1,BeinSport8 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1309.ts
+#EXTINF:-1,BeinSport9 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1308.ts
+#EXTINF:-1,BeinSport10 FULL HD
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1307.ts
+#EXTINF:-1,BeinSport1 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1306.ts
+#EXTINF:-1,BeinSport2 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1305.ts
+#EXTINF:-1,BeinSport3 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1304.ts
+#EXTINF:-1,BeinSport4 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1303.ts
+#EXTINF:-1,BeinSport5 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1302.ts
+#EXTINF:-1,BeinSport6 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1301.ts
+#EXTINF:-1,BeinSport7 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1300.ts
+#EXTINF:-1,BeinSport8 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1299.ts
+#EXTINF:-1,BeinSport9 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1298.ts
+#EXTINF:-1,BeinSport10 4KB PLUSE
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1297.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_1
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1748.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_2
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1749.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_3
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1750.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_4
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1751.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_5
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1752.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_6
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1753.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_7
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1754.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_8
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1755.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_9
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1756.ts
+#EXTINF:-1,BEIN_SPORT_High_Definition_10
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1757.ts
+#EXTINF:-1,BEIN_SPORT_1_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1738.ts
+#EXTINF:-1,BEIN_SPORT_2_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1739.ts
+#EXTINF:-1,BEINN_SPORTS_3_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1740.ts
+#EXTINF:-1,BEIN_SPORTS_4_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1741.ts
+#EXTINF:-1,BEIN_SPORTS_5_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1742.ts
+#EXTINF:-1,BEIN_SPORTS_6_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1743.ts
+#EXTINF:-1,BEIN_SPORTS_7_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1744.ts
+#EXTINF:-1,BEIN_SPORTS_8_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1745.ts
+#EXTINF:-1,BEIN_SPORTS_9_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1746.ts
+#EXTINF:-1,BEIN_SPORTS_10_SD_VERY_FAST
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1747.ts
+#EXTINF:-1,Bein_1 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/943.ts
+#EXTINF:-1,Bein_2 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/942.ts
+#EXTINF:-1,Bein_3 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/941.ts
+#EXTINF:-1,Bein_4 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/940.ts
+#EXTINF:-1,Bein_5 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/939.ts
+#EXTINF:-1,Bein_6 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/938.ts
+#EXTINF:-1,Bein_7 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/937.ts
+#EXTINF:-1,Bein_8 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/936.ts
+#EXTINF:-1,Bein_9 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/935.ts
+#EXTINF:-1,Bein_10 LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/934.ts
+#EXTINF:-1,beIN-Max1
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1053.ts
+#EXTINF:-1,beIN-Max2
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1052.ts
+#EXTINF:-1,BeIN_Sport_MAX 1_World_Cup
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1771.ts
+#EXTINF:-1,BeIN_Sport_MAX 2_World_Cup
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1772.ts
+#EXTINF:-1,beIN_Max1_512(HIGH)
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1776.ts
+#EXTINF:-1,beIN_Max1_512LOW
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1773.ts
+#EXTINF:-1,beIN_Max2_512HIGH
+
+
+
+
+#EXTINF:-1,BeIN_Sport_MAX 2_World_Cup(4K)
+http://195.154.154.84:25461/live/admin_164720/H2Ng9LMq/1778.ts
